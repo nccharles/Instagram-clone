@@ -1,0 +1,28 @@
+{
+  "name": "Instagram",
+  "displayName": "Instagram",
+  "expo": {
+    "name": "Instagram",
+    "description": "App from Limitless Academy",
+    "slug": "Instagram",
+    "privacy": "public",
+    "sdkVersion": "25.0.0",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "primaryColor": "#cccccc",
+    "icon": "./App/Images/Insta_Logo.png",
+    "splash": {
+      "image": "./App/Images/Insta_Logo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#fff"
+    },
+    "packagerOpts": {
+      "assetExts": [
+        "ttf"
+      ]
+    },
+    "ios": {
+      "supportsTablet": true
+    }
+  }
+}
